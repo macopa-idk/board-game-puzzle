@@ -7,4 +7,4 @@ function moveToNext(event) {
     if (target.value.length >= maxLength) {
       nextInput.focus();
     }
-  }
+}
